@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+groq
+python-dotenv
+pydanticlangchain-community
+langchain-text-splitters
+faiss-cpu
